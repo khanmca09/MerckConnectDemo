@@ -1,5 +1,5 @@
 {
-	"Name": "Heroku-Connect-Demo",
+	"Name": "phone-change",
 	"version": "0.0.0",
 	"description": "Heroku connect sample app demo",
 	"main": "server.js",
